@@ -3,6 +3,7 @@ Aspiring Data Analyst and Data Scientist with a background in economics, banking
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/johan-andr%C3%A9s-escobar-vergara/)
+
 Cali, Colombia
 andresescobarv24@gmail.com
 <!--
