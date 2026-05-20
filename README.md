@@ -3,6 +3,7 @@ Aspiring Data Analyst and Data Scientist with a background in economics, banking
 
 ## Tech Stack
 **Languages:** Python, SQL
+
 **ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy
 - Git & GitHub
 
