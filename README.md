@@ -2,9 +2,7 @@
 Aspiring Data Analyst and Data Scientist with a background in economics, banking, and commercial leadership. After years of working with business and financial metrics, I transitioned into data and technology to build analytical solutions that turn information into actionable insights and business value.
 
 ## Contact
-[LinkedIn](www.linkedin.com/in/
-johan-andrés-escobar-vergara
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/johan-andr%C3%A9s-escobar-vergara/)
 
 <!--
 **Andres240989/Andres240989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
