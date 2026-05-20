@@ -1,6 +1,16 @@
 # HELLO WORLD, I'M ANDRES !!
 Aspiring Data Analyst and Data Scientist with a background in economics, banking, and commercial leadership. After years of working with business and financial metrics, I transitioned into data and technology to build analytical solutions that turn information into actionable insights and business value.
 
+## Tech Stack
+**Languages:** Python, SQL
+**ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy
+- Git & GitHub
+
+## Projects
+
+## Currently Learning
+- Power BI
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/johan-andr%C3%A9s-escobar-vergara/)
 
