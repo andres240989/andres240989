@@ -2,9 +2,9 @@
 Aspiring Data Analyst and Data Scientist with a background in economics, banking, and commercial leadership. After years of working with business and financial metrics, I transitioned into data and technology to build analytical solutions that turn information into actionable insights and business value.
 
 ## Tech Stack
-**Languages:** Python, SQL
+- **Languages:** Python, SQL
 
-**ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy
+- **ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy
 - Git & GitHub
 
 ## Projects
