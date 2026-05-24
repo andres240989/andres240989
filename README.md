@@ -1,5 +1,7 @@
 # HELLO WORLD, I'M ANDRES !!
-Aspiring Data Analyst and Data Scientist with a background in economics, banking, and commercial leadership. After years of working with business and financial metrics, I transitioned into data and technology to build analytical solutions that turn information into actionable insights and business value.
+Aspiring Data Analyst and Data Scientist with a background in economics, banking, and commercial leadership. After years of working with business and financial metrics, I transitioned into data and technology to build analytical solutions that turn information into actionable insights and business value. 
+
+In my projects, I enjoy combining technical analysis with a business-oriented mindset. Beyond developing predictive and analytical models, I also focus on explaining how data-driven results can support strategic, commercial, financial, and operational decision-making from a managerial perspective.
 
 ## Tech Stack
 - **Languages:** Python, SQL
